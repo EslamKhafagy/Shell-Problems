@@ -8,13 +8,24 @@ Welcome to my DevOps learning repository! I'm an aspiring DevOps Engineer passio
 - Learn Cloud Platforms (AWS/Azure/GCP)
 - Understand CI/CD Pipelines
 
-## 📚 Learning Path
+## 📊 Summary
 
-### Shell Scripting (Bash)
-- Basic to advanced shell scripting concepts
-- Automation scripts for daily tasks
-- System administration scripts
-- Log parsing and analysis
+- 🧠 Total Solved: 
+- 🚩 Languages: Bash
+- ✅ Platforms: LeetCode, HackerRank
 
-## 🗂️ Repository Structure
+---
+
+## 📚 Table of Contents
+
+| # | Title | Difficulty | Language | Link |
+|--:|-------|------------|----------|------|
+| 1 | Let's Echo | Easy | Bash |[Let's Echo](https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem)
+
+
+---
+
+## ✍️ Notes
+
+---
 
